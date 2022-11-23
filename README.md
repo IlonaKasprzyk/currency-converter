@@ -3,7 +3,7 @@
 ## Hi everyone!
 Here is one of my first websites - currency converter. 
 I created it as part of a homework during frontent development online course - [YouCode](https://youcode.pl/zostawiam-maila/). 
-While creating this page, I practiced using functions in JS.
+While creating this page, I practiced using arrow functions in JS.
 ## Technologies used
 - HTML
 - CSS
