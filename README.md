@@ -9,6 +9,7 @@ While creating this page, I practiced using functions in JS.
 - CSS
 - JavaScript
 - BEM
+- ES6+ features
 ## Check it out! :)
 https://ilonakasprzyk.github.io/currency-converter/
 
